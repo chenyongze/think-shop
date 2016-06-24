@@ -1,0 +1,6 @@
+{
+  "name": "Think-shop",
+  "tagline": "这是一个商店系统",
+  "body": "使用的是node，需要node环境\r\n1.下载解压\r\n2.进入到项目目录，npm install 安装依赖\r\n3. 执行npm start \r\n4. 浏览器打开http://127.0.0.1:3000/xxtye/index.html\r\nhttp://127.0.0.1:3000/shop/index.html",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
